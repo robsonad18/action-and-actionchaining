@@ -1,0 +1,14 @@
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\bin\Debug\netcoreapp3.1\ActionAndActionChaining.exe
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\bin\Debug\netcoreapp3.1\ActionAndActionChaining.deps.json
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\bin\Debug\netcoreapp3.1\ActionAndActionChaining.runtimeconfig.json
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\bin\Debug\netcoreapp3.1\ActionAndActionChaining.runtimeconfig.dev.json
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\bin\Debug\netcoreapp3.1\ActionAndActionChaining.dll
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\bin\Debug\netcoreapp3.1\ActionAndActionChaining.pdb
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.csproj.AssemblyReference.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.AssemblyInfoInputs.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.AssemblyInfo.cs
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.csproj.CoreCompileInputs.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.dll
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.pdb
+C:\Users\RobsonLucasFariasBar\Documents\development\study\action-and-actionchaining\ActionAndActionChaining\obj\Debug\netcoreapp3.1\ActionAndActionChaining.genruntimeconfig.cache
